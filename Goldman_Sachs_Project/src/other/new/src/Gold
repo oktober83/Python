@@ -1,0 +1,21 @@
+import pywikibot
+site = pywikibot.Site('en', 'wikipedia')  # The site we want to run our bot on
+page = pywikibot.Page(site, 'Wikipedia:Sandbox')
+page.text = page.text.replace('foo', 'bar')
+page.save('Replacing "foo" with "bar"')  # Saves the page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,500 @@
+0 3M Company
+1 Abbott Laboratories
+2 AbbVie Inc.
+3 Accenture plc
+4 Activision Blizzard
+5 Acuity Brands Inc
+6 Adobe Systems Inc
+7 Advanced Micro Devices Inc
+8 Advance Auto Parts
+9 AES Corp
+10 Aetna Inc
+11 Affiliated Managers Group Inc
+12 AFLAC Inc
+13 Agilent Technologies Inc
+14 Air Products & Chemicals Inc
+15 Akamai Technologies Inc
+16 Alaska Air Group Inc
+17 Albemarle Corp
+18 Alexandria Real Estate Equities Inc
+19 Alexion Pharmaceuticals
+20 Align Technology
+21 Allegion
+22 Allergan, Plc
+23 Alliance Data Systems
+24 Alliant Energy Corp
+25 Allstate Corp
+26 Alphabet Inc Class A
+27 Altria Group Inc
+28 Amazon.com Inc
+29 Ameren Corp
+30 American Airlines Group
+31 American Electric Power
+32 American Express Co
+33 American International Group, Inc.
+34 American Tower Corp A
+35 American Water Works Company Inc
+36 Ameriprise Financial
+37 AmerisourceBergen Corp
+38 AMETEK Inc
+39 Amgen Inc
+40 Amphenol Corp
+41 Anadarko Petroleum Corp
+42 Analog Devices, Inc.
+43 Andeavor
+44 ANSYS
+45 Anthem Inc.
+46 Aon plc
+47 A.O. Smith Corp
+48 Apache Corporation
+49 Apartment Investment & Management
+50 Apple Inc.
+51 Applied Materials Inc
+52 Aptiv Plc
+53 Archer-Daniels-Midland Co
+54 Arconic Inc
+55 Arthur J. Gallagher & Co.
+56 Assurant Inc
+57 AT&T Inc
+58 Autodesk Inc
+59 Automatic Data Processing
+60 AutoZone Inc
+61 AvalonBay Communities, Inc.
+62 Avery Dennison Corp
+63 Baker Hughes, a GE Company
+64 Ball Corp
+65 Bank of America Corp
+66 The Bank of New York Mellon Corp.
+67 Baxter International Inc.
+68 BB&T Corporation
+69 Becton Dickinson
+70 Berkshire Hathaway
+71 Best Buy Co. Inc.
+72 Biogen Inc.
+73 BlackRock
+74 Block H&R
+75 Boeing Company
+76 BorgWarner
+77 Boston Properties
+78 Boston Scientific
+79 Brighthouse Financial Inc
+80 Bristol-Myers Squibb
+81 Broadcom
+82 Brown-Forman Corp.
+83 C. H. Robinson Worldwide
+84 CA, Inc.
+85 Cabot Oil & Gas
+86 Cadence Design Systems
+87 Campbell Soup
+88 Capital One Financial
+89 Cardinal Health Inc.
+90 CBOE Holdings
+91 Carmax Inc
+92 Carnival Corp.
+93 Caterpillar Inc.
+94 CBRE Group
+95 CBS Corp.
+96 Celgene Corp.
+97 Centene Corporation
+98 CenterPoint Energy
+99 CenturyLink Inc
+100 Cerner
+101 CF Industries Holdings Inc
+102 Charles Schwab Corporation
+103 Charter Communications
+104 Chesapeake Energy
+105 Chevron Corp.
+106 Chipotle Mexican Grill
+107 Chubb Limited
+108 Church & Dwight
+109 CIGNA Corp.
+110 Cimarex Energy
+111 Cincinnati Financial
+112 Cintas Corporation
+113 Cisco Systems
+114 Citigroup Inc.
+115 Citizens Financial Group
+116 Citrix Systems
+117 The Clorox Company
+118 CME Group Inc.
+119 CMS Energy
+120 Coca-Cola Company (The)
+121 Cognizant Technology Solutions
+122 Colgate-Palmolive
+123 Comcast Corp.
+124 Comerica Inc.
+125 Conagra Brands
+126 Concho Resources
+127 ConocoPhillips
+128 Consolidated Edison
+129 Constellation Brands
+130 The Cooper Companies
+131 Corning Inc.
+132 Costco Wholesale Corp.
+133 Coty, Inc
+134 Crown Castle International Corp.
+135 CSRA Inc.
+136 CSX Corp.
+137 Cummins Inc.
+138 CVS Health
+139 D. R. Horton
+140 Danaher Corp.
+141 Darden Restaurants
+142 DaVita Inc.
+143 Deere & Co.
+144 Delta Air Lines Inc.
+145 Dentsply Sirona
+146 Devon Energy Corp.
+147 Digital Realty Trust Inc
+148 Discover Financial Services
+149 Discovery Communications-A
+150 Dish Network
+151 Dollar General
+152 Dollar Tree
+153 Dominion Energy
+154 Dover Corp.
+155 DowDuPont
+156 Dr Pepper Snapple Group
+157 DTE Energy Co.
+158 Duke Realty Corp
+159 Duke Energy
+160 DXC Technology
+161 E*Trade
+162 Eastman Chemical
+163 Eaton Corporation
+164 eBay Inc.
+165 Ecolab Inc.
+166 Edison Int'l
+167 Edwards Lifesciences
+168 Electronic Arts
+169 Emerson Electric Company
+170 Entergy Corp.
+171 Envision Healthcare
+172 EOG Resources
+173 EQT Corporation
+174 Equifax Inc.
+175 Equinix
+176 Equity Residential
+177 Essex Property Trust, Inc.
+178 Estee Lauder Cos.
+179 Eversource Energy
+180 Everest Re Group Ltd.
+181 Exelon Corp.
+182 Expedia Inc.
+183 Expeditors International
+184 Express Scripts
+185 Extra Space Storage
+186 Exxon Mobil Corp.
+187 F5 Networks
+188 Facebook, Inc.
+189 Fastenal Co
+190 Federal Realty Investment Trust
+191 FedEx Corporation
+192 Fidelity National Information Services
+193 Fifth Third Bancorp
+194 FirstEnergy Corp
+195 Fiserv Inc
+196 FLIR Systems
+197 Flowserve Corporation
+198 Fluor Corp.
+199 FMC Corporation
+200 Foot Locker Inc
+201 Ford Motor
+202 Fortive Corp
+203 Fortune Brands Home & Security
+204 Franklin Resources
+205 Freeport-McMoRan Inc.
+206 Gap Inc.
+207 Garmin Ltd.
+208 Gartner Inc
+209 General Dynamics
+210 General Electric
+211 General Growth Properties Inc.
+212 General Mills
+213 General Motors
+214 Genuine Parts
+215 Gilead Sciences
+216 Global Payments Inc
+217 Goldman Sachs Group
+218 Goodyear Tire & Rubber
+219 Grainger (W.W.) Inc.
+220 Halliburton Co.
+221 Hanesbrands Inc
+222 Harley-Davidson
+223 Harris Corporation
+224 Hartford Financial Svc.Gp.
+225 Hasbro Inc.
+226 HCA Holdings
+227 HCP Inc.
+228 Helmerich & Payne
+229 Henry Schein
+230 The Hershey Company
+231 Hess Corporation
+232 Hewlett Packard Enterprise
+233 Hilton Worldwide Holdings Inc
+234 Hologic
+235 Home Depot
+236 Honeywell Int'l Inc.
+237 Hormel Foods Corp.
+238 Host Hotels & Resorts
+239 HP Inc.
+240 Humana Inc.
+241 Huntington Bancshares
+242 Huntington Ingalls Industries
+243 IDEXX Laboratories
+244 IHS Markit Ltd.
+245 Illinois Tool Works
+246 Illumina Inc
+247 Ingersoll-Rand PLC
+248 Intel Corp.
+249 Intercontinental Exchange
+250 International Business Machines
+251 Incyte
+252 International Paper
+253 Interpublic Group
+254 Intl Flavors & Fragrances
+255 Intuit Inc.
+256 Intuitive Surgical Inc.
+257 Invesco Ltd.
+258 IQVIA Holdings Inc.
+259 Iron Mountain Incorporated
+260 Jacobs Engineering Group
+261 J. B. Hunt Transport Services
+262 JM Smucker
+263 Johnson & Johnson
+264 Johnson Controls International
+265 JPMorgan Chase & Co.
+266 Juniper Networks
+267 Kansas City Southern
+268 Kellogg Co.
+269 KeyCorp
+270 Kimberly-Clark
+271 Kimco Realty
+272 Kinder Morgan
+273 KLA-Tencor Corp.
+274 Kohl's Corp.
+275 Kraft Heinz Co
+276 Kroger Co.
+277 L Brands Inc.
+278 L-3 Communications Holdings
+279 Laboratory Corp. of America Holding
+280 Lam Research
+281 Leggett & Platt
+282 Lennar Corp.
+283 Leucadia National Corp.
+284 Lilly (Eli) & Co.
+285 Lincoln National
+286 LKQ Corporation
+287 Lockheed Martin Corp.
+288 Loews Corp.
+289 Lowe's Cos.
+290 LyondellBasell
+291 M&T Bank Corp.
+292 Macerich
+293 Macy's Inc.
+294 Marathon Oil Corp.
+295 Marathon Petroleum
+296 Marriott Int'l.
+297 Marsh & McLennan
+298 Martin Marietta Materials
+299 Masco Corp.
+300 Mastercard Inc.
+301 Mattel Inc.
+302 McCormick & Co.
+303 McDonald's Corp.
+304 McKesson Corp.
+305 Medtronic plc
+306 Merck & Co.
+307 MetLife Inc.
+308 Mettler Toledo
+309 MGM Resorts International
+310 Michael Kors Holdings
+311 Microchip Technology
+312 Micron Technology
+313 Microsoft Corp.
+314 Mid-America Apartments
+315 Mohawk Industries
+316 Molson Coors Brewing Company
+317 Mondelez International
+318 Monsanto Co.
+319 Monster Beverage
+320 Moody's Corp
+321 Morgan Stanley
+322 The Mosaic Company
+323 Motorola Solutions Inc.
+324 Mylan N.V.
+325 Nasdaq, Inc.
+326 National Oilwell Varco Inc.
+327 Navient
+328 NetApp
+329 Netflix Inc.
+330 Newell Brands
+331 Newfield Exploration Co
+332 Newmont Mining Corporation
+333 News Corp. Class A
+334 NextEra Energy
+335 Nielsen Holdings
+336 Nike
+337 NiSource Inc.
+338 Noble Energy Inc
+339 Nordstrom
+340 Norfolk Southern Corp.
+341 Northern Trust Corp.
+342 Northrop Grumman Corp.
+343 Norwegian Cruise Line
+344 NRG Energy
+345 Nucor Corp.
+346 Nvidia Corporation
+347 O'Reilly Automotive
+348 Occidental Petroleum
+349 Omnicom Group
+350 ONEOK
+351 Oracle Corp.
+352 PACCAR Inc.
+353 Packaging Corporation of America
+354 Parker-Hannifin
+355 Patterson Companies
+356 Paychex Inc.
+357 PayPal
+358 Pentair Ltd.
+359 People's United Financial
+360 PepsiCo Inc.
+361 PerkinElmer
+362 Perrigo
+363 Pfizer Inc.
+364 PG&E Corp.
+365 Philip Morris International
+366 Phillips 66
+367 Pinnacle West Capital
+368 Pioneer Natural Resources
+369 PNC Financial Services
+370 Polo Ralph Lauren Corp.
+371 PPG Industries
+372 PPL Corp.
+373 Praxair Inc.
+374 Priceline.com Inc
+375 Principal Financial Group
+376 Procter & Gamble
+377 Progressive Corp.
+378 Prologis
+379 Prudential Financial
+380 Public Serv. Enterprise Inc.
+381 Public Storage
+382 Pulte Homes Inc.
+383 PVH Corp.
+384 Qorvo
+385 Quanta Services Inc.
+386 QUALCOMM Inc.
+387 Quest Diagnostics
+388 Range Resources Corp.
+389 Raymond James Financial Inc.
+390 Raytheon Co.
+391 Realty Income Corporation
+392 Red Hat Inc.
+393 Regency Centers Corporation
+394 Regeneron
+395 Regions Financial Corp.
+396 Republic Services Inc
+397 ResMed
+398 Robert Half International
+399 Rockwell Automation Inc.
+400 Rockwell Collins
+401 Roper Technologies
+402 Ross Stores
+403 Royal Caribbean Cruises Ltd
+404 Salesforce.com
+405 SBA Communications
+406 SCANA Corp
+407 Schlumberger Ltd.
+408 Scripps Networks Interactive Inc.
+409 Seagate Technology
+410 Sealed Air
+411 Sempra Energy
+412 Sherwin-Williams
+413 Signet Jewelers
+414 Simon Property Group Inc
+415 Skyworks Solutions
+416 SL Green Realty
+417 Snap-On Inc.
+418 Southern Co.
+419 Southwest Airlines
+420 S&P Global, Inc.
+421 Stanley Black & Decker
+422 Starbucks Corp.
+423 State Street Corp.
+424 Stericycle Inc
+425 Stryker Corp.
+426 SunTrust Banks
+427 Symantec Corp.
+428 Synchrony Financial
+429 Synopsys Inc.
+430 Sysco Corp.
+431 T. Rowe Price Group
+432 Tapestry, Inc.
+433 Target Corp.
+434 TE Connectivity Ltd.
+435 TechnipFMC
+436 Texas Instruments
+437 Textron Inc.
+438 Thermo Fisher Scientific
+439 Tiffany & Co.
+440 Time Warner Inc.
+441 TJX Companies Inc.
+442 Torchmark Corp.
+443 Total System Services
+444 Tractor Supply Company
+445 TransDigm Group
+446 The Travelers Companies Inc.
+447 TripAdvisor
+448 Twenty-First Century Fox Class A
+449 Tyson Foods
+450 UDR Inc
+451 Ulta Salon Cosmetics & Fragrance Inc
+452 U.S. Bancorp
+453 Under Armour Class C
+454 Union Pacific
+455 United Continental Holdings
+456 United Health Group Inc.
+457 United Parcel Service
+458 United Rentals, Inc.
+459 United Technologies
+460 Universal Health Services, Inc.
+461 Unum Group
+462 V.F. Corp.
+463 Valero Energy
+464 Varian Medical Systems
+465 Ventas Inc
+466 Verisign Inc.
+467 Verisk Analytics
+468 Verizon Communications
+469 Vertex Pharmaceuticals Inc
+470 Viacom Inc.
+471 Visa Inc.
+472 Vornado Realty Trust
+473 Vulcan Materials
+474 Wal-Mart Stores
+475 Walgreens Boots Alliance
+476 The Walt Disney Company
+477 Waste Management Inc.
+478 Waters Corporation
+479 Wec Energy Group Inc
+480 Wells Fargo
+481 Welltower Inc.
+482 Western Digital
+483 Western Union Co
+484 WestRock Company
+485 Weyerhaeuser Corp.
+486 Whirlpool Corp.
+487 Williams Cos.
+488 Willis Towers Watson
+489 Wyndham Worldwide
+490 Wynn Resorts Ltd
+491 Xcel Energy Inc
+492 Xerox Corp.
+493 Xilinx Inc
+494 XL Capital
+495 Xylem Inc.
+496 Yum! Brands Inc
+497 Zimmer Biomet Holdings
+498 Zions Bancorp
+499 Zoetis

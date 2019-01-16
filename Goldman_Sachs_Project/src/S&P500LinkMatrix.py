@@ -251,7 +251,7 @@ np.set_printoptions(linewidth=10000)
 
 plt.imshow(linkMatrix, cmap='hot', interpolation='nearest')
 plt.show()
-
+plt.savefig('heat_map.png', transparent=True)
 
 for i in range(0,len(linkMatrix)):
     print linkMatrix[i]

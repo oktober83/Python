@@ -1,6 +1,6 @@
 # Intro to Artificial Intelligence - CS440
 
-These homeworks and machine problems were completed for the CS440 course at Rutgers taken in Fall 2018 with Professor Jingjin Yu. The homework or machine problem description is also in each respective folder. They include much of the following topics:
+These homeworks and machine problems were completed for the CS440 course at Rutgers taken in Fall 2018 with Professor Jingjin Yu. The homework or machine problem description is also in each respective folder. For the machine problems, the code and results are included in the dp767 folder. They include much of the following topics:
 - Search
 - Constraint Satisfaction Problems
 - Adversarial Search
